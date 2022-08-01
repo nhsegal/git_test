@@ -1,2 +1,3 @@
 # git_test
-For TOP
+For The Odin Project (TOP)
+Hello Odin!
